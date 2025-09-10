@@ -104,6 +104,14 @@ To copy the output from HDFS to your local machine:
     ```
 3. Commit and push to your repo so that we can able to see your output
 
+Challenges Faced & Solutions
+
+Java Version Issue:
+Initially, I faced an issue where the project was not running because of incompatible Java versions. This was resolved by switching to Java 8, which is compatible with Hadoop.
+
+MapReduce Job Abruptly Stopping:
+The major challenge was running the MapReduce job. On my laptop, the job would abruptly stop and exit from the bash shell. I tried reinstalling all the applications (Docker, Hadoop, Maven) and restarted my system multiple times, but the issue persisted.
+As a workaround, I switched to another laptop where I successfully completed the Hands-On exercise.
 
 ## Sample Input: 
  ```bash
