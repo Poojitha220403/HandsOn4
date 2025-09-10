@@ -124,3 +124,25 @@ data 1
 powerful 1
 world 1
    ```
+##Updated Input:
+ ```bash
+  # Create your own input dataset
+HandOn Hadoop 
+Professor, thank you for role play activity.
+   ```
+## Updated output: 
+ ```bash
+dataset	1
+Role	1
+your	1
+Thankyou	1
+activity.	1
+own	1
+play	1
+input	1
+for	1
+Create	1
+Poojitha.	1
+I'm	1
+   ```
+
